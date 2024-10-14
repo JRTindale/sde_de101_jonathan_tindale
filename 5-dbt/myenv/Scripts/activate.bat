@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jrtin\Documents\DataEngineering\sde_de101_jonathan_tindale\5-dbt\myenv
+set VIRTUAL_ENV=C:\Users\jonathan.tindale\OneDrive - Ipsos\Documents\sde_de101_jonathan_tindale\5-dbt\myenv
 
 if not defined PROMPT set PROMPT=$P$G
 
