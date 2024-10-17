@@ -171,4 +171,3 @@ soup = BeautifulSoup(response.text, 'html.parser')
 # Example: Find and print all the links on the webpage
 for link in soup.find_all('a'):
     print(link.get('href'))
-
