@@ -7,6 +7,7 @@ certifi==2024.6.2
 charset-normalizer==3.3.2
 click==8.1.7
 cuallee==0.10.3
+cuallee[polars]
 duckdb==1.0.0
 idna==3.7
 iniconfig==2.0.0
